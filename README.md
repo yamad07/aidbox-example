@@ -1,0 +1,5 @@
+# Aidbox
+
+```
+docker compose up
+```
